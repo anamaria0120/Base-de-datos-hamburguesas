@@ -1,0 +1,37 @@
+h1{
+    color: lightpink;
+    text-align: center;
+    font-size: 30px;
+}
+
+.logo{
+width: 14%;
+margin-left: 570px;
+}
+
+h2{
+color: lightpink;
+text-align: center;
+font-size: 30px;
+}
+
+#telefono{
+color: ;
+}
+
+#direccion{
+color: ;
+}
+
+#enviar{
+color:rgba(10, 10, 10, 0.966);
+background-color: gainsboro;
+}
+
+#lista{
+color: rgba(10, 10, 10, 0.966);
+}
+
+.contenedor{
+    text-align: center;
+}
